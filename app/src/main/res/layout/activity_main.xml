@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btbelice"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:text="Belice"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="597dp" />
+
+    <Button
+        android:id="@+id/bthonduras"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:text="Honduras"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="46dp" />
+
+    <Button
+        android:id="@+id/btguatemala"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:text="Guatemala"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="222dp" />
+
+    <Button
+        android:id="@+id/btpanama"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:text="Panama"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="500dp" />
+
+    <Button
+        android:id="@+id/btnicaragua"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:text="Nicaragua"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="403dp" />
+
+    <Button
+        android:id="@+id/btelsalvador"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:text="El Salvador"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="313dp" />
+
+    <Button
+        android:id="@+id/btcostarica"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:text="Costa Rica"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="134dp" />
+</android.support.constraint.ConstraintLayout>
